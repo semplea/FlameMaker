@@ -13,7 +13,7 @@ final class IFS {
 	}
 	
 	public IFSAccumulator compute(Rectangle frame, int width, int height, int density){
-		
+		salkdjasd
 	}
 	
 	
